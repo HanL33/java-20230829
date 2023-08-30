@@ -1,0 +1,25 @@
+
+W
+java:S4973'"<Strings and Boxed types should be compared using "equals()".(¼áøìÿÿÿÿÿ
+R
+java:S4973E"<Strings and Boxed types should be compared using "equals()".(Ûü›æ
+R
+java:S4973V"<Strings and Boxed types should be compared using "equals()".(Ûü›æ
+<
+java:S11255"'Remove the unnecessary boolean literal.(´×
+@	java:S1069"+Replace this use of System.out by a logger.(ÁîĞ©
+@	java:S106;"+Replace this use of System.out by a logger.(½Ü…
+=
+java:S1125C"'Remove the unnecessary boolean literal.(ÅÓ€¨
+=
+java:S1125K"'Remove the unnecessary boolean literal.(Ì‰¸¬
+=
+java:S1125T"'Remove the unnecessary boolean literal.(ÅÓ€¨
+E	java:S106W"+Replace this use of System.out by a logger.(ßÒ·Ìùÿÿÿÿ
+=
+java:S1125Z"'Remove the unnecessary boolean literal.(Ì‰¸¬
+M
+java:S1854a"7Remove this useless assignment to local variable "num".(êîŠƒ
+>
+java:S1481a"(Remove this unused "num" local variable.(êîŠƒ
+E	java:S106e"+Replace this use of System.out by a logger.(Ò‚à¤şÿÿÿÿ
